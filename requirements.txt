@@ -1,0 +1,6 @@
+scikit-dimension
+networkx
+numba
+peewee
+hyperbox
+pytorch-lightning==1.5.8
