@@ -1,0 +1,4 @@
+_target_: hyperbox_app.distributed.engine.ea_search.EASearchEngine
+sample_iterations: 1000
+metric_key: 'val/acc_epoch'
+query_key: 'test_acc'

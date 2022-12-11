@@ -1,0 +1,5 @@
+_target_: hyperbox_app.distributed.networks.spos.spos_net.ShuffleNASNetV2
+stage_repeats: [4,4,8,4]
+stage_out_channels: [-1,16,64,160,320,640,1024]
+num_classes: 10
+mask: null

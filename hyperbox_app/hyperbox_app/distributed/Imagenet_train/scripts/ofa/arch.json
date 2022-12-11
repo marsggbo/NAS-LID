@@ -1,0 +1,330 @@
+{
+    "depth1": [
+        false,
+        true
+    ],
+    "depth2": [
+        false,
+        true
+    ],
+    "depth3": [
+        false,
+        true
+    ],
+    "depth4": [
+        false,
+        true
+    ],
+    "depth5": [
+        false,
+        true
+    ],
+    "er_block1": [
+        false,
+        true
+    ],
+    "er_block10": [
+        true,
+        false
+    ],
+    "er_block10_subMB_mc": [
+        true,
+        false
+    ],
+    "er_block11": [
+        false,
+        true
+    ],
+    "er_block11_subMB_mc": [
+        false,
+        true
+    ],
+    "er_block12": [
+        true,
+        false
+    ],
+    "er_block12_subMB_mc": [
+        true,
+        false
+    ],
+    "er_block13": [
+        false,
+        true
+    ],
+    "er_block13_subMB_mc": [
+        false,
+        true
+    ],
+    "er_block13_subMB_mc_subSE_mc": [
+        false,
+        true
+    ],
+    "er_block14": [
+        false,
+        true
+    ],
+    "er_block14_subMB_mc": [
+        false,
+        true
+    ],
+    "er_block14_subMB_mc_subSE_mc": [
+        false,
+        true
+    ],
+    "er_block15": [
+        false,
+        true
+    ],
+    "er_block15_subMB_mc": [
+        false,
+        true
+    ],
+    "er_block15_subMB_mc_subSE_mc": [
+        false,
+        true
+    ],
+    "er_block16": [
+        false,
+        true
+    ],
+    "er_block16_subMB_mc": [
+        false,
+        true
+    ],
+    "er_block16_subMB_mc_subSE_mc": [
+        false,
+        true
+    ],
+    "er_block17": [
+        false,
+        true
+    ],
+    "er_block17_subMB_mc": [
+        false,
+        true
+    ],
+    "er_block17_subMB_mc_subSE_mc": [
+        false,
+        true
+    ],
+    "er_block18": [
+        false,
+        true
+    ],
+    "er_block18_subMB_mc": [
+        false,
+        true
+    ],
+    "er_block18_subMB_mc_subSE_mc": [
+        false,
+        true
+    ],
+    "er_block19": [
+        true,
+        false
+    ],
+    "er_block19_subMB_mc": [
+        true,
+        false
+    ],
+    "er_block19_subMB_mc_subSE_mc": [
+        true,
+        false
+    ],
+    "er_block1_subMB_mc": [
+        false,
+        true
+    ],
+    "er_block2": [
+        false,
+        true
+    ],
+    "er_block20": [
+        false,
+        true
+    ],
+    "er_block20_subMB_mc": [
+        false,
+        true
+    ],
+    "er_block20_subMB_mc_subSE_mc": [
+        false,
+        true
+    ],
+    "er_block2_subMB_mc": [
+        false,
+        true
+    ],
+    "er_block3": [
+        false,
+        true
+    ],
+    "er_block3_subMB_mc": [
+        false,
+        true
+    ],
+    "er_block4": [
+        false,
+        true
+    ],
+    "er_block4_subMB_mc": [
+        false,
+        true
+    ],
+    "er_block5": [
+        false,
+        true
+    ],
+    "er_block5_subMB_mc": [
+        false,
+        true
+    ],
+    "er_block5_subMB_mc_subSE_mc": [
+        false,
+        true
+    ],
+    "er_block6": [
+        false,
+        true
+    ],
+    "er_block6_subMB_mc": [
+        false,
+        true
+    ],
+    "er_block6_subMB_mc_subSE_mc": [
+        false,
+        true
+    ],
+    "er_block7": [
+        false,
+        true
+    ],
+    "er_block7_subMB_mc": [
+        false,
+        true
+    ],
+    "er_block7_subMB_mc_subSE_mc": [
+        false,
+        true
+    ],
+    "er_block8": [
+        true,
+        false
+    ],
+    "er_block8_subMB_mc": [
+        true,
+        false
+    ],
+    "er_block8_subMB_mc_subSE_mc": [
+        true,
+        false
+    ],
+    "er_block9": [
+        true,
+        false
+    ],
+    "er_block9_subMB_mc": [
+        true,
+        false
+    ],
+    "ks_block1": [
+        false,
+        false,
+        true
+    ],
+    "ks_block10": [
+        false,
+        false,
+        true
+    ],
+    "ks_block11": [
+        false,
+        true,
+        false
+    ],
+    "ks_block12": [
+        false,
+        false,
+        true
+    ],
+    "ks_block13": [
+        false,
+        false,
+        true
+    ],
+    "ks_block14": [
+        false,
+        false,
+        true
+    ],
+    "ks_block15": [
+        false,
+        false,
+        true
+    ],
+    "ks_block16": [
+        false,
+        false,
+        true
+    ],
+    "ks_block17": [
+        false,
+        false,
+        true
+    ],
+    "ks_block18": [
+        false,
+        false,
+        true
+    ],
+    "ks_block19": [
+        false,
+        true,
+        false
+    ],
+    "ks_block2": [
+        false,
+        false,
+        true
+    ],
+    "ks_block20": [
+        false,
+        false,
+        true
+    ],
+    "ks_block3": [
+        false,
+        false,
+        true
+    ],
+    "ks_block4": [
+        false,
+        true,
+        false
+    ],
+    "ks_block5": [
+        false,
+        false,
+        true
+    ],
+    "ks_block6": [
+        false,
+        false,
+        true
+    ],
+    "ks_block7": [
+        false,
+        false,
+        true
+    ],
+    "ks_block8": [
+        false,
+        true,
+        false
+    ],
+    "ks_block9": [
+        false,
+        false,
+        true
+    ]
+}

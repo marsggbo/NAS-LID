@@ -1,0 +1,8 @@
+_target_: hyperbox_app.distributed.models.finetune_model.FinetuneModel
+defaults:
+    - network_cfg: nasbench201
+    - mutator_cfg: random_mutator
+    - optimizer_cfg: adam
+    - metric_cfg: accuracy
+    - loss_cfg: cross_entropy
+    - scheduler_cfg: null

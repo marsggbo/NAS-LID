@@ -1,0 +1,149 @@
+trainer:
+  _target_: pytorch_lightning.Trainer
+  min_epochs: 1
+  max_epochs: 100
+  accelerator: gpu
+  devices: 1
+  deterministic: false
+  strategy: null
+  gpus: 1
+  limit_val_batches: 10
+  fast_dev_run: true
+model:
+  network_cfg:
+    _target_: hyperbox_app.distributed.networks.nasbench201.nasbench201.NASBench201Network
+    stem_out_channels: 16
+    num_modules_per_stack: 5
+    bn_affine: true
+    bn_momentum: 0.1
+    bn_track_running_stats: true
+    num_classes: 10
+    mask: null
+  mutator_cfg:
+    _target_: hyperbox_app.distributed.mutator.evolution_mutator.EvolutionMutator
+    warmup_epochs: 0
+    evolution_epochs: 50
+    population_num: 50
+    selection_alg: best
+    selection_num: 0.2
+    crossover_num: 0.4
+    crossover_prob: 0.1
+    mutation_num: 0.4
+    mutation_prob: 0.1
+    flops_limit: 5000
+    size_limit: 80
+    log_dir: evolution_logs
+    topk: 10
+    to_save_checkpoint: true
+    to_plot_pareto: true
+    figname: evolution_pareto.pdf
+  optimizer_cfg:
+    _target_: torch.optim.SGD
+    lr: 0.001
+    weight_decay: 0.0005
+    momentum: 0.9
+    nesterov: true
+  metric_cfg:
+    _target_: torchmetrics.classification.accuracy.Accuracy
+  loss_cfg:
+    _target_: torch.nn.CrossEntropyLoss
+  scheduler_cfg:
+    _target_: torch.optim.lr_scheduler.CosineAnnealingLR
+    T_max: 180
+    eta_min: 0.0001
+    last_epoch: -1
+  _target_: hyperbox_app.distributed.models.random_model.RandomModel
+  is_net_parallel: false
+datamodule:
+  transforms:
+    input_size:
+    - 32
+    - 32
+    random_crop:
+      enable: 1
+      padding: 4
+      size: 32
+    random_horizontal_flip:
+      enable: 1
+      p: 0.5
+    cutout:
+      enable: 1
+      n_holes: 1
+      length: 16
+    normalize:
+      enable: 1
+      mean:
+      - 0.4914
+      - 0.4822
+      - 0.4465
+      std:
+      - 0.2023
+      - 0.1994
+      - 0.201
+  _target_: hyperbox.datamodules.cifar_datamodule.CIFAR10DataModule
+  data_dir: ~/datasets/cifar10
+  val_split: 0.5
+  num_workers: 4
+  normalize: true
+  batch_size: 64
+  seed: 666
+  shuffle: true
+  pin_memory: false
+  drop_last: false
+  is_customized: false
+callbacks:
+  model_checkpoint:
+    _target_: pytorch_lightning.callbacks.ModelCheckpoint
+    monitor: val/acc
+    save_top_k: 1
+    save_last: true
+    mode: max
+    verbose: false
+    dirpath: checkpoints/
+    filename: '{epoch:02d}_{val/acc:.4f}'
+  early_stopping:
+    _target_: pytorch_lightning.callbacks.EarlyStopping
+    monitor: val/acc
+    patience: 1000
+    mode: max
+    min_delta: 0
+    check_on_train_epoch_end: false
+    strict: false
+logger:
+  wandb:
+    _target_: pytorch_lightning.loggers.wandb.WandbLogger
+    project: distributed
+    name: fewshot_search_debug_nb201_c10_grad_mincut_sp_16splits
+    save_dir: .
+    offline: true
+    id: null
+    log_model: false
+    prefix: ''
+    job_type: train
+    group: ''
+    tags: []
+engine:
+  _target_: hyperbox_app.distributed.engine.ea_search.EASearchEngine
+  sample_iterations: 1000
+  metric_key: val/acc_epoch
+  query_key: test_acc
+paths:
+  root_dir: .
+  data_dir: ${paths.root_dir}/data/
+  log_dir: ${paths.root_dir}/logs/
+  output_dir: ${hydra:runtime.output_dir}
+  work_dir: ${hydra:runtime.cwd}
+seed: 666
+task_name: hyperbox_project
+debug: false
+print_config: true
+ignore_warnings: true
+test_after_training: true
+only_test: false
+pretrained_weight: null
+ipdb_debug: false
+hydra:
+  run:
+    dir: logs/runs/${hydra.job.name}/${now:%Y-%m-%d_%H-%M-%S}
+  job:
+    chdir: true

@@ -1,0 +1,4 @@
+scikit-dimension
+networkx
+numba
+peewee

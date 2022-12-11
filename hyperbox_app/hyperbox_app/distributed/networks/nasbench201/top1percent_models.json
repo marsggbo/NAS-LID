@@ -1,0 +1,7490 @@
+{
+    "0": {
+        "acc": 94.37333333333333,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "1": {
+        "acc": 94.37333333333333,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "2": {
+        "acc": 94.36333333333334,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "3": {
+        "acc": 94.34333333333332,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_1x1', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "4": {
+        "acc": 94.30666666666666,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_1x1', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "5": {
+        "acc": 94.3,
+        "arch": "{'0_1': 'conv_1x1', '0_2': 'conv_3x3', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "6": {
+        "acc": 94.29666666666667,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_1x1', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "7": {
+        "acc": 94.29333333333334,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'conv_1x1', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "8": {
+        "acc": 94.24000000000001,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'none', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "9": {
+        "acc": 94.21999999999998,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_1x1', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "10": {
+        "acc": 94.21666666666665,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "11": {
+        "acc": 94.21000000000001,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'conv_1x1', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "12": {
+        "acc": 94.20666666666666,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'none', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "13": {
+        "acc": 94.195,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'conv_1x1', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "14": {
+        "acc": 94.19,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'avg_pool_3x3', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "15": {
+        "acc": 94.18,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'none', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "16": {
+        "acc": 94.17666666666666,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'skip_connect', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "17": {
+        "acc": 94.13,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'none', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'none', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "18": {
+        "acc": 94.12666666666667,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_1x1', '1_2': 'conv_1x1', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "19": {
+        "acc": 94.125,
+        "arch": "{'0_1': 'conv_1x1', '0_2': 'conv_3x3', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "20": {
+        "acc": 94.125,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_1x1', '1_2': 'conv_1x1', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "21": {
+        "acc": 94.12,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'avg_pool_3x3', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "22": {
+        "acc": 94.10499999999999,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'none', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "23": {
+        "acc": 94.09,
+        "arch": "{'0_1': 'conv_1x1', '0_2': 'conv_1x1', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'none', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "24": {
+        "acc": 94.08999999999999,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'none', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "25": {
+        "acc": 94.08500000000001,
+        "arch": "{'0_1': 'conv_1x1', '0_2': 'conv_3x3', '1_2': 'avg_pool_3x3', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "26": {
+        "acc": 94.08,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'none', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "27": {
+        "acc": 94.06666666666666,
+        "arch": "{'0_1': 'conv_1x1', '0_2': 'conv_3x3', '1_2': 'skip_connect', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "28": {
+        "acc": 94.065,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'avg_pool_3x3', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "29": {
+        "acc": 94.06333333333333,
+        "arch": "{'0_1': 'conv_1x1', '0_2': 'conv_1x1', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "30": {
+        "acc": 94.05,
+        "arch": "{'0_1': 'conv_1x1', '0_2': 'conv_3x3', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "31": {
+        "acc": 94.045,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'conv_1x1', '0_3': 'skip_connect', '1_3': 'none', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_3": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "32": {
+        "acc": 94.04499999999999,
+        "arch": "{'0_1': 'conv_1x1', '0_2': 'none', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "33": {
+        "acc": 94.03,
+        "arch": "{'0_1': 'conv_1x1', '0_2': 'none', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "34": {
+        "acc": 94.03,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'skip_connect', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "35": {
+        "acc": 94.02333333333333,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'avg_pool_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "36": {
+        "acc": 94.02,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'skip_connect', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "37": {
+        "acc": 94.015,
+        "arch": "{'0_1': 'conv_1x1', '0_2': 'conv_3x3', '1_2': 'avg_pool_3x3', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "38": {
+        "acc": 94.015,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'skip_connect', '1_2': 'conv_3x3', '0_3': 'none', '1_3': 'conv_1x1', '2_3': 'skip_connect'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "0_3": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ]
+        }
+    },
+    "39": {
+        "acc": 94.00999999999999,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'avg_pool_3x3', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "40": {
+        "acc": 94.00999999999999,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_1x1', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'avg_pool_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "41": {
+        "acc": 94.00666666666666,
+        "arch": "{'0_1': 'skip_connect', '0_2': 'conv_3x3', '1_2': 'none', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "42": {
+        "acc": 94.0,
+        "arch": "{'0_1': 'conv_1x1', '0_2': 'conv_3x3', '1_2': 'conv_1x1', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "43": {
+        "acc": 93.99,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'none', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'none', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "44": {
+        "acc": 93.98666666666666,
+        "arch": "{'0_1': 'conv_1x1', '0_2': 'conv_1x1', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "45": {
+        "acc": 93.98333333333335,
+        "arch": "{'0_1': 'conv_1x1', '0_2': 'conv_3x3', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'none', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "46": {
+        "acc": 93.98,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'conv_1x1', '0_3': 'skip_connect', '1_3': 'skip_connect', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "47": {
+        "acc": 93.97,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'skip_connect', '0_3': 'skip_connect', '1_3': 'avg_pool_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_3": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "48": {
+        "acc": 93.95666666666666,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'conv_1x1', '0_3': 'skip_connect', '1_3': 'avg_pool_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_3": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "49": {
+        "acc": 93.955,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_1x1', '1_2': 'avg_pool_3x3', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "50": {
+        "acc": 93.95,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_1x1', '1_2': 'skip_connect', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "51": {
+        "acc": 93.94999999999999,
+        "arch": "{'0_1': 'conv_1x1', '0_2': 'conv_3x3', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'none', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "52": {
+        "acc": 93.94999999999999,
+        "arch": "{'0_1': 'none', '0_2': 'conv_3x3', '1_2': 'conv_1x1', '0_3': 'skip_connect', '1_3': 'avg_pool_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_3": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "53": {
+        "acc": 93.94666666666666,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_1x1', '1_2': 'none', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "54": {
+        "acc": 93.94,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'skip_connect', '1_2': 'conv_3x3', '0_3': 'conv_3x3', '1_3': 'none', '2_3': 'skip_connect'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "0_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ]
+        }
+    },
+    "55": {
+        "acc": 93.94,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'none', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "56": {
+        "acc": 93.94,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'none', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "57": {
+        "acc": 93.94,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_1x1', '1_2': 'skip_connect', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "58": {
+        "acc": 93.93333333333334,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_1x1', '1_2': 'conv_1x1', '0_3': 'skip_connect', '1_3': 'none', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_3": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "59": {
+        "acc": 93.93,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'none', '1_2': 'conv_1x1', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "60": {
+        "acc": 93.925,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_1x1', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'none', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "61": {
+        "acc": 93.91666666666667,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'none', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'avg_pool_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ]
+        }
+    },
+    "62": {
+        "acc": 93.91666666666667,
+        "arch": "{'0_1': 'none', '0_2': 'conv_3x3', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'none', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "63": {
+        "acc": 93.91666666666667,
+        "arch": "{'0_1': 'conv_1x1', '0_2': 'none', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'none', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "64": {
+        "acc": 93.91666666666667,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'skip_connect', '1_2': 'conv_3x3', '0_3': 'conv_3x3', '1_3': 'conv_1x1', '2_3': 'skip_connect'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "0_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ]
+        }
+    },
+    "65": {
+        "acc": 93.91333333333334,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'none', '1_2': 'avg_pool_3x3', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "66": {
+        "acc": 93.91000000000001,
+        "arch": "{'0_1': 'skip_connect', '0_2': 'conv_3x3', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "67": {
+        "acc": 93.91000000000001,
+        "arch": "{'0_1': 'skip_connect', '0_2': 'conv_1x1', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "68": {
+        "acc": 93.91,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'none', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'none', '2_3': 'skip_connect'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ]
+        }
+    },
+    "69": {
+        "acc": 93.90333333333335,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_1x1', '1_2': 'avg_pool_3x3', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "70": {
+        "acc": 93.9,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_1x1', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'skip_connect', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "71": {
+        "acc": 93.9,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_1x1', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'skip_connect'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ]
+        }
+    },
+    "72": {
+        "acc": 93.89999999999999,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_1x1', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'none', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "73": {
+        "acc": 93.89666666666666,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_1x1', '1_2': 'skip_connect', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "74": {
+        "acc": 93.89666666666666,
+        "arch": "{'0_1': 'conv_1x1', '0_2': 'conv_3x3', '1_2': 'none', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "75": {
+        "acc": 93.895,
+        "arch": "{'0_1': 'none', '0_2': 'conv_3x3', '1_2': 'none', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "76": {
+        "acc": 93.89333333333333,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_1x1', '1_2': 'conv_3x3', '0_3': 'conv_1x1', '1_3': 'conv_1x1', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "77": {
+        "acc": 93.89333333333332,
+        "arch": "{'0_1': 'skip_connect', '0_2': 'conv_3x3', '1_2': 'none', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "78": {
+        "acc": 93.89,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'skip_connect', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "79": {
+        "acc": 93.89,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_1x1', '1_2': 'skip_connect', '0_3': 'skip_connect', '1_3': 'none', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_3": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "80": {
+        "acc": 93.89,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_1x1', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'none', '2_3': 'skip_connect'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ]
+        }
+    },
+    "81": {
+        "acc": 93.89,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_1x1', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'skip_connect', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "82": {
+        "acc": 93.89,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'none', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "83": {
+        "acc": 93.88333333333333,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'conv_1x1', '0_3': 'skip_connect', '1_3': 'none', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_3": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "84": {
+        "acc": 93.88333333333333,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'none', '1_2': 'skip_connect', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "85": {
+        "acc": 93.88,
+        "arch": "{'0_1': 'conv_1x1', '0_2': 'conv_3x3', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'avg_pool_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "86": {
+        "acc": 93.88,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'avg_pool_3x3', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'none'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ]
+        }
+    },
+    "87": {
+        "acc": 93.87,
+        "arch": "{'0_1': 'conv_1x1', '0_2': 'conv_3x3', '1_2': 'avg_pool_3x3', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "88": {
+        "acc": 93.86666666666666,
+        "arch": "{'0_1': 'conv_1x1', '0_2': 'conv_3x3', '1_2': 'skip_connect', '0_3': 'skip_connect', '1_3': 'none', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_3": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "89": {
+        "acc": 93.86333333333334,
+        "arch": "{'0_1': 'skip_connect', '0_2': 'conv_3x3', '1_2': 'conv_1x1', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "90": {
+        "acc": 93.86333333333334,
+        "arch": "{'0_1': 'skip_connect', '0_2': 'conv_3x3', '1_2': 'conv_3x3', '0_3': 'conv_1x1', '1_3': 'skip_connect', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "91": {
+        "acc": 93.86,
+        "arch": "{'0_1': 'conv_1x1', '0_2': 'conv_3x3', '1_2': 'conv_1x1', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "92": {
+        "acc": 93.85666666666667,
+        "arch": "{'0_1': 'conv_1x1', '0_2': 'conv_1x1', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'avg_pool_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "93": {
+        "acc": 93.85666666666667,
+        "arch": "{'0_1': 'none', '0_2': 'conv_3x3', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'avg_pool_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "94": {
+        "acc": 93.85499999999999,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'skip_connect', '1_2': 'conv_3x3', '0_3': 'conv_1x1', '1_3': 'conv_3x3', '2_3': 'skip_connect'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ]
+        }
+    },
+    "95": {
+        "acc": 93.85000000000001,
+        "arch": "{'0_1': 'skip_connect', '0_2': 'conv_3x3', '1_2': 'conv_3x3', '0_3': 'conv_3x3', '1_3': 'skip_connect', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "96": {
+        "acc": 93.85,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'avg_pool_3x3', '1_2': 'conv_1x1', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "97": {
+        "acc": 93.85,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'none', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "98": {
+        "acc": 93.845,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'none', '1_2': 'skip_connect', '0_3': 'skip_connect', '1_3': 'none', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_3": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "99": {
+        "acc": 93.845,
+        "arch": "{'0_1': 'conv_1x1', '0_2': 'conv_3x3', '1_2': 'skip_connect', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "100": {
+        "acc": 93.845,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'skip_connect', '1_2': 'none', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "101": {
+        "acc": 93.84,
+        "arch": "{'0_1': 'conv_1x1', '0_2': 'conv_3x3', '1_2': 'conv_1x1', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "102": {
+        "acc": 93.84,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'skip_connect', '1_2': 'skip_connect', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "103": {
+        "acc": 93.83666666666666,
+        "arch": "{'0_1': 'skip_connect', '0_2': 'conv_3x3', '1_2': 'none', '0_3': 'conv_3x3', '1_3': 'skip_connect', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "104": {
+        "acc": 93.83500000000001,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_1x1', '1_2': 'conv_1x1', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'avg_pool_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ]
+        }
+    },
+    "105": {
+        "acc": 93.835,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'none', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'skip_connect'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ]
+        }
+    },
+    "106": {
+        "acc": 93.83333333333333,
+        "arch": "{'0_1': 'skip_connect', '0_2': 'conv_3x3', '1_2': 'conv_1x1', '0_3': 'conv_3x3', '1_3': 'skip_connect', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "107": {
+        "acc": 93.83000000000001,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'skip_connect', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "108": {
+        "acc": 93.83,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'skip_connect', '1_2': 'conv_1x1', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "109": {
+        "acc": 93.83,
+        "arch": "{'0_1': 'conv_1x1', '0_2': 'conv_3x3', '1_2': 'skip_connect', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "110": {
+        "acc": 93.83,
+        "arch": "{'0_1': 'avg_pool_3x3', '0_2': 'conv_3x3', '1_2': 'conv_1x1', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "111": {
+        "acc": 93.83,
+        "arch": "{'0_1': 'skip_connect', '0_2': 'none', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "0_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "112": {
+        "acc": 93.82666666666667,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'skip_connect', '0_3': 'skip_connect', '1_3': 'skip_connect', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "113": {
+        "acc": 93.82666666666667,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'skip_connect', '1_2': 'conv_1x1', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "114": {
+        "acc": 93.82499999999999,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'conv_3x3', '0_3': 'conv_1x1', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "115": {
+        "acc": 93.82499999999999,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_1x1', '1_2': 'avg_pool_3x3', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'none'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ]
+        }
+    },
+    "116": {
+        "acc": 93.82333333333334,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_1x1', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'avg_pool_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ]
+        }
+    },
+    "117": {
+        "acc": 93.82333333333334,
+        "arch": "{'0_1': 'conv_1x1', '0_2': 'conv_3x3', '1_2': 'conv_1x1', '0_3': 'skip_connect', '1_3': 'avg_pool_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_3": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "118": {
+        "acc": 93.82,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'conv_1x1', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "119": {
+        "acc": 93.82,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'none', '1_2': 'none', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "120": {
+        "acc": 93.82,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'skip_connect', '1_2': 'conv_3x3', '0_3': 'none', '1_3': 'conv_3x3', '2_3': 'skip_connect'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "0_3": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ]
+        }
+    },
+    "121": {
+        "acc": 93.82,
+        "arch": "{'0_1': 'none', '0_2': 'conv_3x3', '1_2': 'conv_1x1', '0_3': 'skip_connect', '1_3': 'skip_connect', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "122": {
+        "acc": 93.81666666666666,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'avg_pool_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ]
+        }
+    },
+    "123": {
+        "acc": 93.815,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'skip_connect', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "124": {
+        "acc": 93.815,
+        "arch": "{'0_1': 'conv_1x1', '0_2': 'conv_3x3', '1_2': 'none', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "125": {
+        "acc": 93.815,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'avg_pool_3x3', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "126": {
+        "acc": 93.81333333333333,
+        "arch": "{'0_1': 'avg_pool_3x3', '0_2': 'conv_3x3', '1_2': 'none', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "127": {
+        "acc": 93.81,
+        "arch": "{'0_1': 'avg_pool_3x3', '0_2': 'conv_3x3', '1_2': 'none', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "128": {
+        "acc": 93.81,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'avg_pool_3x3', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'none'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ]
+        }
+    },
+    "129": {
+        "acc": 93.81,
+        "arch": "{'0_1': 'conv_1x1', '0_2': 'conv_3x3', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "130": {
+        "acc": 93.805,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'avg_pool_3x3', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "131": {
+        "acc": 93.805,
+        "arch": "{'0_1': 'conv_1x1', '0_2': 'conv_3x3', '1_2': 'conv_1x1', '0_3': 'skip_connect', '1_3': 'skip_connect', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "132": {
+        "acc": 93.80000000000001,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'skip_connect', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'none', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "133": {
+        "acc": 93.8,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'none', '2_3': 'skip_connect'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ]
+        }
+    },
+    "134": {
+        "acc": 93.79666666666667,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'conv_1x1', '0_3': 'skip_connect', '1_3': 'avg_pool_3x3', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_3": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "135": {
+        "acc": 93.795,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'skip_connect', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "136": {
+        "acc": 93.795,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'avg_pool_3x3', '1_2': 'none', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "137": {
+        "acc": 93.795,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_1x1', '1_2': 'skip_connect', '0_3': 'conv_1x1', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "138": {
+        "acc": 93.79499999999999,
+        "arch": "{'0_1': 'none', '0_2': 'conv_3x3', '1_2': 'avg_pool_3x3', '0_3': 'skip_connect', '1_3': 'none', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "139": {
+        "acc": 93.79,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'conv_3x3', '0_3': 'avg_pool_3x3', '1_3': 'conv_3x3', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "140": {
+        "acc": 93.79,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'skip_connect', '1_2': 'none', '0_3': 'conv_3x3', '1_3': 'conv_3x3', '2_3': 'skip_connect'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "0_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ]
+        }
+    },
+    "141": {
+        "acc": 93.79,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_1x1', '1_2': 'conv_3x3', '0_3': 'conv_1x1', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "142": {
+        "acc": 93.79,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'skip_connect', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "143": {
+        "acc": 93.785,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'skip_connect', '1_2': 'conv_1x1', '0_3': 'conv_1x1', '1_3': 'conv_3x3', '2_3': 'skip_connect'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ]
+        }
+    },
+    "144": {
+        "acc": 93.785,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'avg_pool_3x3', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "145": {
+        "acc": 93.785,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'none', '1_2': 'none', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'skip_connect'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ]
+        }
+    },
+    "146": {
+        "acc": 93.785,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'skip_connect', '1_2': 'skip_connect', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "147": {
+        "acc": 93.78,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'none', '1_2': 'conv_1x1', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_1x1'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    },
+    "148": {
+        "acc": 93.78,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'none', '1_2': 'conv_1x1', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'none'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ]
+        }
+    },
+    "149": {
+        "acc": 93.78,
+        "arch": "{'0_1': 'none', '0_2': 'conv_3x3', '1_2': 'avg_pool_3x3', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "150": {
+        "acc": 93.78,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'avg_pool_3x3', '1_2': 'conv_1x1', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'conv_3x3'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    },
+    "151": {
+        "acc": 93.78,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_1x1', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'skip_connect', '2_3': 'skip_connect'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ]
+        }
+    },
+    "152": {
+        "acc": 93.78,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'skip_connect', '1_2': 'skip_connect', '0_3': 'conv_1x1', '1_3': 'conv_3x3', '2_3': 'skip_connect'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ]
+        }
+    },
+    "153": {
+        "acc": 93.775,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'skip_connect', '1_2': 'avg_pool_3x3', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'none'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ]
+        }
+    },
+    "154": {
+        "acc": 93.775,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'conv_3x3', '1_2': 'conv_3x3', '0_3': 'skip_connect', '1_3': 'conv_1x1', '2_3': 'skip_connect'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "2_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ]
+        }
+    },
+    "155": {
+        "acc": 93.775,
+        "arch": "{'0_1': 'conv_3x3', '0_2': 'avg_pool_3x3', '1_2': 'avg_pool_3x3', '0_3': 'skip_connect', '1_3': 'conv_3x3', '2_3': 'none'}",
+        "mask": {
+            "0_1": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "0_2": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "0_3": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "1_2": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "1_3": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "2_3": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ]
+        }
+    }
+}

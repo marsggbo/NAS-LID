@@ -1,0 +1,8 @@
+_target_: hyperbox_app.distributed.networks.nasbench201.nasbench201.NASBench201Network
+stem_out_channels: 16 
+num_modules_per_stack: 5
+bn_affine: True
+bn_momentum: 0.1
+bn_track_running_stats: True
+num_classes: 10
+mask: null

@@ -1,0 +1,17 @@
+_target_: hyperbox_app.distributed.mutator.evolution_mutator.EvolutionMutator
+warmup_epochs: 0
+evolution_epochs: 50
+population_num: 50
+selection_alg: 'best'
+selection_num: 0.2
+crossover_num: 0.4
+crossover_prob: 0.1
+mutation_num: 0.4
+mutation_prob: 0.1
+flops_limit: 5000 # MFLOPs
+size_limit: 80 # MB
+log_dir: 'evolution_logs'
+topk: 10
+to_save_checkpoint: True
+to_plot_pareto: True
+figname: 'evolution_pareto.pdf'
