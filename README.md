@@ -1,4 +1,15 @@
-# naslid
+
+<div align="center">
+
+    
+<h1>[AAAI2023] NAS-LID: Efficient Neural Architecture Search with Local Intrinsic Dimension <a href="https://arxiv.org/abs/2211.12759">(PDF)</a><a href="https://gamma.app/public/0t1h94j75bccc0q">(slides)</a><a href="https://zhuanlan.zhihu.com/p/591027254">(知乎)</a></h1>
+
+![image](https://user-images.githubusercontent.com/13477956/208625868-1c9ed7aa-a8c6-4e3c-ba1c-1612cc3328b6.png)
+
+</div>
+
+</div>
+
 
 ## 1. Environment
 
